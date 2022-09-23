@@ -1,0 +1,15 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url('https://www.pngitem.com/pimgs/m/222-2227129_pokemon-pokedex-hd-png-download.png');
+  background-size:cover;
+  background-postion:center;
+  justify-content: center;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+
